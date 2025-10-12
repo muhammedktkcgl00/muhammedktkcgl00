@@ -3,8 +3,8 @@
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/muhammedktkcgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muhammedktkcgl" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@kutukcuoglu007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@kutukcuoglu007" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammedktkcgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammedktkcgl" height="30" width="40" /></a>
+<a href="https://medium.com/@kutukcuoglu007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kutukcuoglu007" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@muhammedkutukcuoglu0706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@muhammedkutukcuoglu0706" height="30" width="40" /></a>
 </p>
 
